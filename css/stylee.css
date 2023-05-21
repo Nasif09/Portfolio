@@ -369,6 +369,11 @@ header .navbar ul a:hover {
     color: var(--yellow);
 }
 
+.contact .row .content .info h3 a {
+    text-transform: lowercase;
+    color: #eee;
+}
+
 .top {
     position: fixed;
     bottom: 7.5rem;
