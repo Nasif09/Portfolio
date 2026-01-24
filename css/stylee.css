@@ -492,6 +492,7 @@ header .navbar ul a:hover {
 /* projects Section */
 .projects .project-container {
     margin-top: 3.5rem;
+    padding: 0 6rem;
 }
 .extra-project {
     display: none;
@@ -623,7 +624,7 @@ header .navbar ul a:hover {
 
 /* Achievements */
 .achievements .row{
-    
+    padding: 0 6rem;
     margin-top: 3.5rem;
 }
 
